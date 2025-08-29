@@ -28,7 +28,7 @@ npm install
 - Run the commands <strong> from inside this folder </strong>
 - If you don't know how to navigate to the place this folder is using command line:
 
-1. Click "Show in explorer" on the Github page/Github Desktop
+1. If you use Github Desktop, click the repository and choose "Show in explorer" to open the folder. If you don't, just open the folder manually in file explorer
 2. Copy the folder path (for example, `C:\Users\carolina\OneDrive\Área de Trabalho\json-excel-converter`)
 3. In the terminal, type `cd "PASTE_YOUR_PATH_HERE"` (<strong> with quotes if the path contains spaces </strong>) </br>
    Example:
