@@ -10,17 +10,40 @@ A script to convert between JSON and Excel formats for form data.
 git clone https://github.com/carolf32/json-excel-converter
 ```
 
-2. Install dependencies
+2. Enter in the project folder
+
+```bash
+cd json-excel-converter
+```
+
+3. Install dependencies
 
 ```bash
 npm install
 ```
 
+## Important
+
+- Place the JSON/Excel file you want to convert <strong> in the same folder </strong> as [convert.js]
+- Run the commands <strong> from inside this folder </strong>
+- If you don't know how to navigate to the place this folder is using command line:
+
+1. Click "Show in explorer" on the Github page/Github Desktop
+2. Copy the folder path (for example, [C:\Users\carolina\OneDrive\Área de Trabalho\json-excel-converter])
+3. In the terminal, type [cd "PASTE_YOUR_PATH_HERE"] (<strong> with quotes if the path contains spaces </strong>)
+   Example:
+
+```bash
+cd "C:\Users\carolina\OneDrive\Área de Trabalho\json-excel-converter"
+```
+
 ## Dependencies
 
-- [xlsx](https://www.npmjs.com/package/xlsx) for Excel file handling
+- [xlsx] for Excel file handling
 
 ## Usage
+
+1.
 
 Run the script with either a JSON or Excel file:
 
