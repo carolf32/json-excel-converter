@@ -1,0 +1,24 @@
+{
+  "name": "json-excel-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolf32/json-excel-converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/carolf32/json-excel-converter/issues"
+  },
+  "homepage": "https://github.com/carolf32/json-excel-converter#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
