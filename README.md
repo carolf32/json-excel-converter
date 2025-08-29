@@ -24,13 +24,13 @@ npm install
 
 ## Important
 
-- Place the JSON/Excel file you want to convert <strong> in the same folder </strong> as [convert.js]
+- Place the JSON/Excel file you want to convert <strong> in the same folder </strong> as `convert.js`
 - Run the commands <strong> from inside this folder </strong>
 - If you don't know how to navigate to the place this folder is using command line:
 
 1. Click "Show in explorer" on the Github page/Github Desktop
-2. Copy the folder path (for example, [C:\Users\carolina\OneDrive\Área de Trabalho\json-excel-converter])
-3. In the terminal, type [cd "PASTE_YOUR_PATH_HERE"] (<strong> with quotes if the path contains spaces </strong>)
+2. Copy the folder path (for example, `C:\Users\carolina\OneDrive\Área de Trabalho\json-excel-converter`)
+3. In the terminal, type `cd "PASTE_YOUR_PATH_HERE"` (<strong> with quotes if the path contains spaces </strong>) </br>
    Example:
 
 ```bash
@@ -39,11 +39,9 @@ cd "C:\Users\carolina\OneDrive\Área de Trabalho\json-excel-converter"
 
 ## Dependencies
 
-- [xlsx] for Excel file handling
+- `xlsx` for Excel file handling
 
 ## Usage
-
-1.
 
 Run the script with either a JSON or Excel file:
 
