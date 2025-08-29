@@ -1,6 +1,6 @@
 # Json <-> Excel form converter
 
-A script to convert between JSON and Excel formats for form data.
+A script to convert between JSON and Excel files
 
 ## Instalation
 
